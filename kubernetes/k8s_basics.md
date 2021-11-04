@@ -7,7 +7,7 @@
 #### On worker nodes started kubelet process
 
 
-#### On master node started processes 
+#### On master node started next processes 
 - API server 
     - comunicating with UI API CLI 
 - Controlleer manager 
