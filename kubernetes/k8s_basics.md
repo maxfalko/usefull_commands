@@ -19,3 +19,6 @@
     - it has all configuration data status of cluster\node\container
     - restoring cluster from snapshots
 - Virtual network
+    - service
+- Pod is the smallest unit basically a wrapper of a container
+    - usually per application you would have one pod
