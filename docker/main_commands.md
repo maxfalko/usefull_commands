@@ -34,7 +34,18 @@
 
 ```docker run -d container_name ```
 
+#### r run in background all network interfaces attached to this conteiner
+
+```docker run -P-d container_name ```
+
 ## Delete container
 
 ```docker rm conatainer_id or name```
 
+## Show container logs 
+
+```docker logs container_id```
+
+## Run bash in container
+
+``` ddocker exec -it container_id /bin/sh```
